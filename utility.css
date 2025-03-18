@@ -1,0 +1,11 @@
+.p-1{
+    padding: 16px;
+    
+}
+.m-1{
+    margin-left: 10px;
+}
+
+.flex{
+    display: flex;
+}
